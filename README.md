@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img src="https://github.com/cherobim22/spiderman-milesmorales/blob/master/images/todo1.png" width="550">
+<img src="https://github.com/cherobim22/react-netflix/blob/master/images/react.png" width="550">
 
 ## Available Scripts
 
